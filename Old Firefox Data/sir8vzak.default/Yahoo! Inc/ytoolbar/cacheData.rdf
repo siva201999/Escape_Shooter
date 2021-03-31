@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="rdf:#$MdTuZ2"
+                   NC:URL="http://l.yimg.com/nt/i/tb/iconsgif/msgrnew.gif"
+                   NC:Data="http://l.yimg.com/nt/i/tb/iconsgif/msgrnew.gif" />
+  <RDF:Description RDF:about="rdf:#$KdTuZ2"
+                   NC:URL="http://l.yimg.com/nt/i/tb/iconsgif/yrmc.gif"
+                   NC:Data="http://l.yimg.com/nt/i/tb/iconsgif/yrmc.gif" />
+  <RDF:Description RDF:about="rdf:#$OdTuZ2"
+                   NC:URL="support.mozilla.org"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADKUlEQVQ4jXWTXUxTdxjG/17M6PzAxGgWvVnMsNUpoh0iLJvE8RGYPXA450DtaWkp9iCV4TQBG7OE+R2jMTNGJyM4GnVa1k0I0zkQybIrjVET4kI0CpbSnlIkBNpK4fz/jxcuBpH9rp/nyfvmfV5CZqFN17uofePzDe1pL4zt6QHx982BjJ9T+5bMpn0Pz8qxpW3rg1/eNPQV/ZE2YGnbMljv+0K9cW3b8J1LOSOVDdkjSf9rvt9g+CDqrcqe+rv8JB7ZLuOJTcFjaa5nc2DppdzR2osF0XAjH/Veretd8Y6xL8s+b1hR9PSKuZ61yyPotgF37ffxsDwThMz5TzbnPD9ZflbSYlcPPL2CiGPR2wC/WFM47nb4WKMpxn6Vwf60DOKONX3mhN9n9c07bMZv5/YP0MFHRx2EEEKeGZSkYKHrRsItj7EzJjDPDlCfuQGd0np0cCtmhuy1TFTX7xnAwINDXUB2EnmRXmVQCyrUqW9LwY6Ugp0r1ehl8QJuFfnQJa2cGWA1DVvde3rwsqc2jOBOA/GnODl1qy2mOSTQuhKw4yWT8BT1oHV7J1oy5s8MKCwOHP3p1HXQJ5Vx9FZxxK9zcoMGOT7Fi6CKCFonMvaDMYqW/BC8+Z9PN+cI/s/q3X89DXbvAx5UxLR7lUbiX+VM69dbwvEsEVQUQBURzM0BjXnAtbweePN2vWrht3b/eKi6o+HEv0O3KoF/ZLCu8tDkzYqN5NkqJal/tb1ryFACLUeEJgigFTxYbT5wNhfw5FHm/To+6eMpa+WBVhGs1QLtF3tHpIl7c0p/stPer5cTYxkitFwRGi+A2njQ3dvBDuSDHSsAO20EO18M1lQK7Yx5InFStrzd7fEy18JAstLsX2vB6BYJU9kiKCeAmgVQZzHYXh7sOwHaQQmJOhMSNXJTUDF++G4bP3Z9FEze1ezX2xJqqgmjmRKiXwmIFQiIFQkY5yWMFZomooLcNG61Ln/vDwghZGiZa2FotatM1Sm3Q2sd4dC6sriaYo2HU6zqcGpZ50hmmUXNtS6Y1Tydl598sziirzFEdNVc5NMqLrJG2RTRTev+NF4DdLi+UDG1G4IAAAAASUVORK5CYII=" />
+  <RDF:Description RDF:about="rdf:#$sqrq9"
+                   NC:URL="rusvpn.com"
+                   NC:Data="data:undefined;base64," />
+  <RDF:Description RDF:about="rdf:#$LdTuZ2"
+                   NC:URL="http://l.yimg.com/nt/i/tb/iconsgif/edu.gif"
+                   NC:Data="http://l.yimg.com/nt/i/tb/iconsgif/edu.gif" />
+  <RDF:Description RDF:about="rdf:#$QdTuZ2"
+                   NC:URL="filehippo.com"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACOklEQVQ4ja2TTUvUURTGr0ripiAodP733DszEhVI+AWqwZKgnas2pYQUEZVZUNuGoA9hoIbWGP8555YQ1aKXkTBCWvTCgCBhms49JzIbXJXibeELk64GeuCszvP8zoV7jlL/RXFcp5SqqSJRs55RyqJvAZIhTaVOMzIbaTfXms5Jo8pmazft2WxtOieN2s21mpHZCJycBpIhiPmQsihnNPJvQF7QKJOAvADIRUtyIR3PH2h2c/uB+BwgFzc8mviHRvljne9S6Zw0auQXmiRUFjjuTxH3WuIr4Pjutj7y6yR9Tag9o5M7NfHLBEpI4FozQlmxyOcNySA47jfI3RHJsqY1TwIlAHFh3/2pXSqFpYMR8mxH4We4PFEOQBI0ylPzqHQCSEpAMm9J2jXxE+Mk9EyUQ0fhZ4hQvln0LQqczzTl5VfX+GK49XEpGOJ3SfJtmni04rmPIfaZpOO3tz8thc7xxdCUl7Im36aM85cikuUIZcUQPwTnM+B4OCJZ3QBEJKvgeNhQ6Sg4zkUoKxHJMjjuUZrkgyYJxsk9m+fjgDJWGf4HgjKWdHxMEw9okgDEn9X6t0xbknYgLmwNboVokjdrg/gLoEwpky8dMY6vpZ20ptBfNMR3IpTyNgDyTBL9DYNyvdl9P2yJeyH2mc1NU33vd1jkqynyZzXyq60AS9xnyd80yN0qjus2V7lSqcHpBvtgZrdFf0oTDwDKcyB5pokHknl/sin2e1OD0w1VHEyxXsXF+ioPrTr9BUYZsFFntd0KAAAAAElFTkSuQmCC" />
+  <RDF:Description RDF:about="rdf:#$9F2hv"
+                   NC:URL="www.mozilla.org"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADJ0lEQVQ4jYWTb0yUdQDHf7Uyt4scMpUSgy1Xak5xEMfZ/XmOu+d57k6yA6dceNk5DG8ZumvlWliauHBXUdIL3MBio6gom60MuLXGRlssYEWJ5ZBj3AE74fjrH+TPc59e2ItaNr+vv/9efL9C3AEcE3cT31bGhKuBmKK7E/+/BiN2lbhzlAnXLGPqvv8nfrw8jY9WpP6deo8QQtCzSceA1ExMgbgTYsowEat6m5qpGdSsCFG3ysPprXtpNFiEEGK+Q5+V+C13nLARRuwwLMNgXi9hWSFsW3VL7MtYSvmaMwRXQnVqDzWPT01XOQJnM+O+Nld3669lDVq4+giznS4ImyGcB5eVLgYclfTpHxD416m89MgER9Pg3ZVQl8LV01mT7Z7W+fOmMb4zxGm2/UnPm0HmOuxw0QoX5XkuqyP023cInt18iv0boCId6tPg0zXQlMrNxkx+f+N9vnKOcU6JciH4Dgs/W6FDgk4V/lChz1YrKMz5Ae8WOPwofJhO4vxaxs4q9NYHaK04R13hDc7IUzTl/8hMyAFtRgg54BcZLqjtYsEmdVKgh91b4OA6+iodnCgK8YpnmPLiGd7adY0qxygfGLqJ1hbAN7nwhQo/SdDu7BLXNz/9bUI2gzsXvJl0lDyDz/o9Pnc3pUWXCBT287p0iSp9iNH3ZKg1kmgyQ7NE4sv8FjH6oO+1hWynht0M+QZmPCaCziBFlhY8chs+azuHstr42nWcxQo9VOvhkxy0OiWh1Ww/KiJLDm6cfLi4X9OrYLGCamT8KZnP7Yc5LlVTaTlFixzg+h4TvJwFJ7LRTpqZK3cPzB9zZwohhIgu8786meFZ1LJdsFUGSSIhm5hzSsznm8Cthx054NWjPf8kN3cXaLPPeY4gxF1CCCH6RemySJK//spDXu3GRjdatgsMChhtt1rlSWCzMGeUmd60KzH9xN6GqW3Fyf+ac1SULB/UHTgZTS6Jx1Z7mVy7k6vrC7i2wc3MY4XE04uJpewbv5L8wttDq/ek3PZQXaL03sGlZfaI7sXGyP3+oUjS/sVokn8xojswPKQ79NnIfQGlV+xc8k/NX3J5C/7IGDopAAAAAElFTkSuQmCC" />
+  <RDF:Description RDF:about="rdf:#$HNa5Y3"
+                   NC:URL="www.thelivemirror.com"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdUlEQVQ4jWNgGAWUg7msfN/PMTL9J4QZGIy5MLEeN8NVBob/6OBVZeX/P2/f/r/OwADHDAzGXAxiVv/hNotZ/WcQsJJnuApV8O/v3/8PbW3/X2dgwG8AMibLAFHLTwxilj8JGoAOcHrhMgMjik248EBE8IgBAMmNpIkIXwOEAAAAAElFTkSuQmCC" />
+  <RDF:Description RDF:about="rdf:#$FNa5Y3"
+                   NC:URL="www.google.com"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB5klEQVQ4jYWTzWsTYRCH9yLYePL/EAlisEQvtlC13irUVagHBUX0omAv3oQqHiooTeiiudTvtaiIVZGqlHoRtB+StrE9yYK0mw8ipLG7mcnjIdmYL8nA7/bOM/Obd8YwmsL3/T0iYqnqmqr6Va2KyDgQbn5fCyAkIgk6hIhYjuN0tUueBSh7HsXJh+TOD5HuP4B7KEru7Ek2n05Q9rwAMtMACSqru07ujInbG2mr/PDF+k7Ga56DytnTg7i9EdJH9lO4F8P/Po+fXKSQiJM9NYA4P5sdhQ0RsQBK83fIDOzD7evGTy60mldtN4+4oaprAPIlgvcqRPHBhU5zrGNqylBVH6D0cQel6W2UM28aHvWMFFp01f4TALx/gA+hCiA91RFw5VEjYBXg9+ddZKd38nJx9L8tX3u+Rc9IgdGprQCwYlQ3jG/LNzlsH6XbHmTOXWpJTv1S+m5UOphNSTDEMQMIA3jic/ztJfY+OUbUNrm9MMHXjSRz7jJ3kzb99y0OXs9zLlGkXK5APc/bHSySBbCxmcGsQtrJfHGL9Xw5qB6rbaLjOF0iMgPgqc/jH68Zej9M9JlJ1DY58e4yiaVJiqWtIPkTsL3hHqoQq8PXIyKxluSmwwqLSFxVU6rqVbUiImM1z3XxF/9k+3A9su/8AAAAAElFTkSuQmCC" />
+  <RDF:Description RDF:about="rdf:#$pqrq9"
+                   NC:URL="addons.mozilla.org"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABaUlEQVQ4jY1SPUsDQRB95hRE/AtiJwhWgoKIPyH4H1Ir9haxFf+BKVQMRgux1S4Eye0OOaxys3OSqJWFBPyIhYqwFhfvckkuycCw8Jj3dt+bBQCAzBY0l+DxMv6rGqyApAnFBVjrRLgb5EF8gluzEALK34Y2FtpYKCmGQ/4qSN4inMwZrHVQacx1zRp4dgpQfB6D/AQtO9DyHmGRCF+BZD+BqftFwONlaDkFSbOPlNbKXMIN8khUt5VhTdyCtZNJcq/nkS+QizjYMO3xyVFzKRTR8hA/TxoguQbx9wDfjyBzA+KfCHMlB2hz2CF/wX+ZDfOoZ3t8V+A9z4R/xt/tbKyNGi8B1magzBGUcCIXMrVIoOpvxmHXsyB5BfkbySCtzUTnHc+DuNXl96Bn1sHAKpenUwNV8gsK9gYTE/+BCyn7/0TVrI0WsHYCKjhO3s7tfs/DRTJQUuys7wOqvj4+ORZx4EouXFV6/QHr9qjRAwfOCAAAAABJRU5ErkJggg==" />
+  <RDF:Description RDF:about="rdf:#$PdTuZ2"
+                   NC:URL="r.search.yahoo.com"
+                   NC:Data="data:undefined;base64," />
+  <RDF:Description RDF:about="rdf:#$rqrq9"
+                   NC:URL="nordvpn.com"
+                   NC:Data="data:undefined;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtUlEQVQ4jWNgoAVwaf+/wbX9/39k7NL+fwNhjW3/d6JrxDCo7f9OrJpd2//9IaQZgf/9QbP5337iNcNc8m8/ku2kaYZhmL/34VJgXP6O37j8HT+e8NiHy/aHyP5EiGFxBa4Acm37H4scTg4N/3mIMgCmwbntfzKyAU4t/zOwhReKgHPr3wmE0opz698JKAa4tP+/hW47IYCUOm/BBRwa/nMQa4BDw38OFAtd2v5fJFYzJXpoAwCJUFnI/8eZ0wAAAABJRU5ErkJggg==" />
+  <RDF:Description RDF:about="rdf:#$NdTuZ2"
+                   NC:URL="http://l.yimg.com/nt/i/tb/iconsgif/qsyma.gif"
+                   NC:Data="http://l.yimg.com/nt/i/tb/iconsgif/qsyma.gif" />
+  <RDF:Description RDF:about="rdf:#$GNa5Y3"
+                   NC:URL="www.tamilrockermovies.net"
+                   NC:Data="data:undefined;base64," />
+  <RDF:Description RDF:about="rdf:#$qqrq9"
+                   NC:URL="chrome.google.com"
+                   NC:Data="data:undefined;base64," />
+  <RDF:Seq RDF:about="NC:CacheRoot">
+    <RDF:li RDF:resource="rdf:#$KdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$LdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$MdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$NdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$OdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$PdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$QdTuZ2"/>
+    <RDF:li RDF:resource="rdf:#$FNa5Y3"/>
+    <RDF:li RDF:resource="rdf:#$GNa5Y3"/>
+    <RDF:li RDF:resource="rdf:#$HNa5Y3"/>
+    <RDF:li RDF:resource="rdf:#$pqrq9"/>
+    <RDF:li RDF:resource="rdf:#$qqrq9"/>
+    <RDF:li RDF:resource="rdf:#$rqrq9"/>
+    <RDF:li RDF:resource="rdf:#$sqrq9"/>
+    <RDF:li RDF:resource="rdf:#$9F2hv"/>
+  </RDF:Seq>
+</RDF:RDF>

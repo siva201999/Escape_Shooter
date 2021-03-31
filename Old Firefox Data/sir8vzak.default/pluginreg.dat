@@ -1,0 +1,56 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AIR\nppdf32.dll|$
+15.9.20069.28170|$
+1443646020000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 15.9.20069|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+NPSPWRAP.DLL|$
+C:\PROGRA~2\MICROS~1\Office15\NPSPWRAP.DLL|$
+15.0.4514.1000|$
+1390363904000|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office 2013|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+npMeetingJoinPluginOC.dll|$
+C:\Program Files (x86)\Mozilla Firefox\plugins\npMeetingJoinPluginOC.dll|$
+15.0.4545.1000|$
+1390363668000|0|0|0|$
+The plugin allows you to have a better experience with Microsoft Lync|$
+Microsoft Office 2013|$
+1
+0|application/vnd.microsoft.communicator.ocsmeeting|Lync Plug-in for Firefox||$
+npIntelWebAPIIPT.dll|$
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT\npIntelWebAPIIPT.dll|$
+4.0.68.0|$
+1440476546000|0|0|0|$
+Intel web components for Intel® Identity Protection Technology|$
+Intel® Identity Protection Technology|$
+1
+0|application/x-vnd-intel-webapi-ipt-4.0.68|npIntelWebAPIipt-3-5||$
+npIntelWebAPIUpdater.dll|$
+C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT\npIntelWebAPIUpdater.dll|$
+4.0.68.0|$
+1440476548000|0|0|0|$
+Intel web components updater - Installs and updates the Intel web components|$
+Intel® Identity Protection Technology|$
+1
+0|application/x-vnd-intel-webapi-updater|npIntelWebAPIupdater-2-0|intel_webapi_updater-2-0|$
+
+[INVALID]
